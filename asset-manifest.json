@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testWevsite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testWevsite/static/js/main.27f84002.chunk.js",
+    "main.js.map": "/testWevsite/static/js/main.27f84002.chunk.js.map",
+    "runtime-main.js": "/testWevsite/static/js/runtime-main.fea60068.js",
+    "runtime-main.js.map": "/testWevsite/static/js/runtime-main.fea60068.js.map",
+    "static/js/2.e2d2f896.chunk.js": "/testWevsite/static/js/2.e2d2f896.chunk.js",
+    "static/js/2.e2d2f896.chunk.js.map": "/testWevsite/static/js/2.e2d2f896.chunk.js.map",
+    "index.html": "/testWevsite/index.html",
+    "precache-manifest.f12492791923ebb7fb0c95391c35d8ed.js": "/testWevsite/precache-manifest.f12492791923ebb7fb0c95391c35d8ed.js",
+    "service-worker.js": "/testWevsite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testWevsite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e2d2f896.chunk.js.LICENSE.txt": "/testWevsite/static/js/2.e2d2f896.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testWevsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fea60068.js",
+    "static/js/2.e2d2f896.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27f84002.chunk.js"
+  ]
+}
